@@ -1,0 +1,91 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-repeat: repeat;
+    background-size: 190px;
+    background-image:url(../img/logomarca.png);
+    color:rgb(255, 255, 255);
+    font-size: large;
+    font-weight: bolder;
+    background-color: #A0AEC0;
+}
+
+.forms {
+    background-color: transparent;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 500px;
+    border: 5px solid darkblue;
+    backdrop-filter: blur(7px);
+   
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+button {
+    background-color:darkblue;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
+
+.bt {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bt a {
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bt a:hover {
+    color: rgb(0, 229, 255);
+}
+
+button:hover {
+    background-color:rgb(0, 203, 152);
+}
+
+#cancelar{
+    background-color: rgb(65, 65, 65);
+}
+
+#cancelar:hover {
+    background-color: #d42026;
+}
