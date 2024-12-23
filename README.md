@@ -12,3 +12,6 @@ esse projeto foi feito com HTML, CSS, Javascript e PHP
 
 ## Acessórios
 ![bandicam 2024-12-22 15-13-25-647](https://github.com/user-attachments/assets/9bf0d473-7e9b-46a8-9e49-e3b1fb947c28)
+
+para baixar o site acesse pelo https://files.catbox.moe/g0ouw0.zip
+depois é só unzipar
